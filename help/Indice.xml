@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='ISO-8859-1'  ?>
+<!DOCTYPE index
+  PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp Index Version 1.0//EN"
+         "http://java.sun.com/products/javahelp/index_1_0.dtd">
+
+<index version="1.0">
+  
+  <indexitem text="adrián pizzerías" target="intro" />
+  <indexitem text="menú principal" target="menu" />
+  <indexitem text="nuestro juego" target="juego" />
+  <indexitem text="problemas con intolerancias" target="intolerancias" />
+  <indexitem text="Realizar el pedido">
+    <indexitem text="nuestro juego" target="juego" />
+    <indexitem text="menú principal" target="menu" />
+    <indexitem text="problemas con intolerancias" target="intolerancias" />
+  </indexitem> 
+  <indexitem text="registrar reserva" target="registro" />
+</index>
+

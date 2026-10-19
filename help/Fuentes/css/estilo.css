@@ -1,0 +1,16 @@
+ body { font-size:14pt;
+	font-family: Helvetica, Geneva, Arial, sans-serif;
+	color: black } 
+
+ h1 { 	font-size:24px;
+	font-family: Helvetica, Geneva, Arial, sans-serif;
+	color: rgb(238,228,159) } 
+
+h2 { 	font-size:20px;
+	font-family: Helvetica, Geneva, Arial, sans-serif;
+	color: rgb(238,228,159) }
+	
+h4 { 	font-size:16px;
+	font-family: Helvetica, Geneva, Arial, sans-serif;
+	color: rgb(238,228,159) } 
+ ul {	list-style-type: circle;}
